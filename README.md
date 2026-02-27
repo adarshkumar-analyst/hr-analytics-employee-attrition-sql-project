@@ -1,6 +1,6 @@
-📊 HR Employee Attrition Analysis (SQL Project)
-📌 Project Overview
+📊 **HR Employee Attrition Analysis (SQL Project)**
 
+📌 Project Overview
 This project focuses on analyzing employee attrition trends using SQL.
 The goal is to identify key factors affecting employee turnover such as:
 
@@ -17,7 +17,6 @@ Work-Life Balance
 Department performance
 
 This analysis helps HR teams make data-driven decisions to reduce attrition.
-
 
 🗂 Dataset Information
 
